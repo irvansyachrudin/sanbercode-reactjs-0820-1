@@ -1,0 +1,44 @@
+*{transition:all 0.3s ease-in-out;}
+
+.header{
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  margin-top: -10px;
+  margin-left: -10px;
+}
+
+nav{float:right;}
+
+.logo img{float:left;}
+
+ul li{
+  display: inline-block; 
+  padding:10px;
+  font-size:20px; 
+  font-family:'Times New Roman', Times, serif;
+}
+
+ul li:hover{
+  color:blue;
+  
+}
+
+body{
+    background-image: url('../img/pattern.jpg');
+}
+
+
+  .konten{
+      margin: auto;
+      max-width:60%; 
+      background-color: azure;
+  }
+
+  .bawah{
+      color: white;
+      text-align: center;
+      background-color:black;
+      margin: auto;
+      padding: 10px;
+  }
