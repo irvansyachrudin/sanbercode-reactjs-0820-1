@@ -59,7 +59,7 @@ var buah = [
 
 console.log(buah[0])
 
-// soal 5
+// soal 6
 
 var dataFilm = [];
 
